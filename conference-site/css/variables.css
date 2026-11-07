@@ -1,0 +1,11 @@
+:root {
+  --navy: #101D35;
+  --gold: #C4A66A;
+  --ivory: #F5F1E8;
+  --navy-soft: #1B2B4B;
+  --text: #1a2338;
+  --font-heading: 'Playfair Display', Georgia, serif;
+  --font-body: 'Inter', system-ui, sans-serif;
+  --container: 1200px;
+  --radius: 4px;
+}
